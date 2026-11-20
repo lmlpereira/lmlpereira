@@ -35,7 +35,7 @@ I am looking for challenges and opportunities that makes me feel on a continous 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-
+</p>
 
 
 <div>
