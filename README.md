@@ -1,4 +1,6 @@
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&section=header&reversal=false&text=Luis+Pereira&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&strokeWidth=0&desc=Mobile+Developer&descSize=20&descAlign=50&descAlignY=72">
+
 👨‍💻 Mobile Developer
 
 🚀 About Me<br>
